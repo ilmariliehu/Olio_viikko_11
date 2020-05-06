@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Week11</string>
+    <string name="Open">Week11</string>
+    <string name="Close">Week11</string>
+
+    <string name="fonttikoko">Fontstorlek</string>
+    <string name="Muokkaus">Ändra</string>
+    <string name="valitse">Välj ett språk</string>
+    <string name="Italic">Kursivera off/on</string>
+    <string name="Bold">Fet off/on</string>
+    <string name="rivimäärä">Rad mängd</string>
+    <string name="nimimerkki">Pseudonymrad</string>
+    <string name="Tallenna">Spara</string>
+</resources>

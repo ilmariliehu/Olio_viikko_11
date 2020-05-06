@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Week11</string>
+    <string name="Open">Week11</string>
+    <string name="Close">Week11</string>
+
+    <string name="fonttikoko">Anna fonttikoko</string>
+    <string name="Muokkaus">Muokkaus</string>
+    <string name="valitse">Valitse kieli</string>
+    <string name="Italic">Kursivoitu off/on</string>
+    <string name="Bold">Lihavoitu off/on</string>
+    <string name="rivimäärä">Anna rivimäärä</string>
+    <string name="nimimerkki">Anna nimimerkki</string>
+    <string name="Tallenna">Tallenna</string>
+
+
+
+</resources>

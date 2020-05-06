@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Week11</string>
+    <string name="Open">Week11</string>
+    <string name="Close">Week11</string>
+
+    <string name="fonttikoko">Give fontsize</string>
+    <string name="Muokkaus">Editing off/on</string>
+    <string name="valitse">Choose language</string>
+    <string name="Italic">Italic off/on</string>
+    <string name="Bold">Bold off/on</string>
+    <string name="rivimäärä">Give number of rows</string>
+    <string name="nimimerkki">Give nick</string>
+    <string name="Tallenna">Save</string>
+</resources>
